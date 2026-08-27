@@ -1,0 +1,39 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Build
+dist/
+build/
+**/dist/
+**/build/
+
+# Environment
+.env
+.env.*
+**/.env*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Flutter
+**/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.idea/
+mobile/.vscode/
+
+# iOS
+mobile/ios/Pods/
+mobile/ios/.symlinks/
+mobile/ios/Flutter/ephemeral/
+
+# Android
+mobile/android/.gradle/
+mobile/android/local.properties
+
+# Source code
+src/**
