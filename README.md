@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="ChawFi Logo" width="120" />
+<img src="assets/logo.png" alt="ChawFi Logo" width="110" />
 
 # ChawFi
 
-### Financial intelligence made effortless.
+**AI-powered personal finance companion.**
 
-**Your AI-powered personal finance companion.**
-
-Track expenses, manage your budget, set savings goals, and understand your spending — simply by talking to ChawFi.
-
-<br />
+Track expenses, manage budgets, set savings goals, and understand your money through natural conversation.
 
 ![AI Powered](https://img.shields.io/badge/AI--Powered-8B5CF6?style=for-the-badge)
 ![23+ Languages](https://img.shields.io/badge/23%2B_Languages-8B5CF6?style=for-the-badge)
@@ -23,44 +19,38 @@ Track expenses, manage your budget, set savings goals, and understand your spend
 
 <div align="center">
 
-<img src="assets/image/chat.jpeg" alt="ChawFi Chat Screen" width="23%" /> <img src="assets/image/history.jpeg" alt="ChawFi History Screen" width="23%" /> <img src="assets/image/setting.jpeg" alt="ChawFi setting screen" width="23%" /> 
+<img src="assets/image/chat.jpeg" alt="ChawFi Chat" width="23%" />
+<img src="assets/image/history.jpeg" alt="ChawFi History" width="23%" />
+<img src="assets/image/setting.jpeg" alt="ChawFi Settings" width="23%" />
 
 </div>
 
-## 💜 Your Money, Just Talk About It
+## Overview
 
-Managing money shouldn't feel like doing accounting.
+ChawFi is a conversational personal finance app built around a simple idea:
 
-Traditional finance apps make you fill out forms, choose categories, enter amounts, and navigate through multiple screens — every single time you spend money.
+> **Managing your money should be as easy as talking about it.**
 
-**ChawFi makes it conversational.**
-
-Just tell ChawFi what happened:
+Instead of filling out forms and navigating through multiple screens, simply tell ChawFi what happened.
 
 > **"I spent RM 45 on dinner."**
 
-That's it.
+ChawFi understands the transaction and keeps your financial records up to date.
 
-ChawFi understands what you said, records the transaction, and keeps your financial picture up to date.
+## Features
 
----
+| Feature                       | Description                                                                  |
+| ----------------------------- | ---------------------------------------------------------------------------- |
+| 💬 **Conversational Finance** | Record expenses and income naturally through chat.                           |
+| 🌍 **23+ Languages**          | Communicate naturally across multiple Asian and international languages.     |
+| 📊 **Spending Tracking**      | Understand where your money goes and identify spending patterns.             |
+| 💰 **Budgets**                | Set spending limits and monitor your progress.                               |
+| 🎯 **Savings Goals**          | Create goals for trips, purchases, emergency funds, and more.                |
+| 🔎 **Transaction Search**     | Search and explore your financial history.                                   |
+| 💱 **Multiple Currencies**    | Track transactions across currencies while preserving the original currency. |
+| 🧠 **AI Insights**            | Get useful insights from your financial activity.                            |
 
-## ✨ What You Can Do
-
-|    | Feature                 |                                                                                            |
-| -- | ----------------------- | ------------------------------------------------------------------------------------------ |
-| 💬 | **Talk to ChawFi**      | Record expenses and income naturally through conversation.                                 |
-| 🌍 | **23+ Languages**       | Communicate in English, Burmese, Chinese, Japanese, Korean, Thai, Hindi, and more.         |
-| 📊 | **Track Your Spending** | See where your money goes and understand your spending patterns.                           |
-| 💰 | **Manage Budgets**      | Set budgets and see when you're on track, approaching your limit, or overspending.         |
-| 🎯 | **Savings Goals**       | Save toward things that matter to you — a trip, a new device, an emergency fund, and more. |
-| 🔎 | **Find Transactions**   | Search and explore your financial history whenever you need it.                            |
-| 💱 | **Multiple Currencies** | Track money in MYR, MMK, USD, SGD, JPY, and many other currencies.                         |
-| 🧠 | **Smart Insights**      | Discover spending patterns and opportunities to improve your finances.                     |
-
----
-
-## 💬 How It Works
+## How It Works
 
 ### 1. Talk
 
@@ -70,101 +60,79 @@ Tell ChawFi what happened.
 
 ### 2. ChawFi Understands
 
-ChawFi identifies the amount, currency, type of transaction, and category.
+The AI identifies relevant information such as the amount, currency, transaction type, and category.
 
-### 3. Your Finances Stay Updated
+### 3. Your Finance Data Updates
 
-Your transaction is recorded and your financial information stays up to date.
+The transaction is recorded and your financial data stays up to date.
 
-### 4. Understand Your Money
+### 4. Understand Your Spending
 
-Over time, ChawFi helps you see patterns in your spending and make better decisions.
+As your financial history grows, ChawFi helps you understand patterns and make better decisions.
 
----
+## Natural Conversations
 
-## 🧠 AI That Understands Real Conversations
+ChawFi is designed for conversations rather than rigid commands.
 
-ChawFi isn't designed around rigid commands.
+You can:
 
-You can talk naturally.
+* Mix languages naturally.
+* Correct or modify transactions through conversation.
+* Ask follow-up questions without repeating context.
+* Clarify information when something is ambiguous.
 
-**Mixed languages**
+For example:
 
 > "ဒီနေ့ lunch အတွက် RM 25 သုံးလိုက်တယ်"
 
-Switch between languages naturally without having to change a setting.
+You don't need to switch languages or configure a different input mode.
 
-**When something is unclear**
+## Languages
 
-ChawFi asks instead of simply making something up.
-
-**When you want to change something**
-
-You can talk about your transactions naturally instead of searching through menus.
-
-**When you need context**
-
-ChawFi can use the conversation context so you don't have to repeat yourself unnecessarily.
-
----
-
-## 🌏 Speak Your Language
-
-ChawFi is designed for multilingual conversations, with support for **23+ Asian and international languages**.
-
-Some supported languages include:
+ChawFi currently supports **23+ languages**, including:
 
 **English · Burmese · Chinese · Japanese · Korean · Malay · Indonesian · Thai · Vietnamese · Filipino · Hindi · Bengali · Tamil · Telugu · Kannada · Malayalam · Sinhala · Nepali · Khmer · Lao · Mongolian · Turkish**
 
----
+## Currencies
 
-## 💱 Multiple Currencies
-
-ChawFi supports a wide range of currencies:
+ChawFi supports multiple currencies, including:
 
 `MMK` `MYR` `USD` `EUR` `GBP` `SGD` `THB` `JPY` `KRW` `CNY` `INR` `AUD` `CAD` `CHF` `HKD` `NZD` `SEK` `NOK` `DKK` `PHP` `IDR` `VND` `BND`
 
-Each transaction keeps its **original currency**, so your financial records remain clear and accurate.
+Transactions retain their **original currency**, keeping your financial history accurate and easy to understand.
 
----
-
-## 🔐 Your Data, Your Control
+## Privacy & Security
 
 ChawFi is designed with privacy and security in mind.
 
-* 🔒 **Secure data transmission**
-* 🔑 **Bring your own AI provider** where supported
-* 👆 **Biometric authentication**
-* 🛡️ **Secure sessions and protected storage**
-* 🚫 **No guessing financial information**
+* 🔒 Secure data transmission
+* 🔑 Support for bringing your own AI provider where available
+* 👆 Biometric authentication
+* 🛡️ Secure sessions and protected storage
+* 🚫 No guessing when financial information is unclear
 
-Your financial data should belong to you.
+Your financial data should remain under your control.
 
----
+## Status
 
-## 🚀 Coming Soon
+🚧 **ChawFi is currently in development.**
 
-<div align="center">
+The mobile application is being built for:
 
-### ChawFi is coming to iOS and Android.
+* 🍎 iOS
+* 🤖 Android
 
-![App Store](https://img.shields.io/badge/App_Store-Coming_Soon-000000?style=for-the-badge\&logo=apple\&logoColor=white)
-
-![Google Play](https://img.shields.io/badge/Google_Play-Coming_Soon-000000?style=for-the-badge\&logo=google-play\&logoColor=white)
-
-**Launch date coming soon.**
-
-</div>
+App Store and Google Play availability will be announced when the first release is ready.
 
 ---
 
 <div align="center">
 
-### 💜 ChawFi
+## ChawFi
 
-**Financial intelligence made effortless.**
+**AI-powered personal finance, through conversation.**
 
-Built for people who want to understand their money without making money management complicated.
+Built to make understanding your money simpler.
 
 <br />
 
